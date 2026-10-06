@@ -10,7 +10,7 @@ Ejemplo en archivo Jenga.mp4
 * **Institución:** Universidad de Chile
 * **Curso:** Modelación y computación gráfica para ingenieros
 * **Propósito:** Proyecto individual 
-* **Repositorio base:** [cc3501-computer-graphics]([https://github.com/usuario/repo-del-curso](https://github.com/PLUMAS-research/cc3501-computer-graphics))
+* **Repositorio base:** [cc3501-computer-graphics][https://github.com/PLUMAS-research/cc3501-computer-graphics]
   
 
 ## Características Principales
