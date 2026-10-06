@@ -2,6 +2,8 @@
 
 Simulación interactiva del juego de Jenga desarrollada en **Python**. Combina un motor de físicas 2D (**Pymunk**) para calcular la dinámica y colisiones de los bloques, con un pipeline de renderizado 3D en **OpenGL** a través de **Pyglet** y una arquitectura de **Grafo de Escena (Scenegraph)**.
 
+## Video ejemplo
+Ejemplo en archivo Jenga.mp4
 
 ## Contexto Académico
 
@@ -21,5 +23,5 @@ Simulación interactiva del juego de Jenga desarrollada en **Python**. Combina u
 
 ## Aspectos interactivos
 
-| ENTER | Extrae un bloque aleatorio disponible y lo coloca en la cima de la torre. |
-| ESPACIO | Alterna la vista de la cámara a unas de las 3 vistas creadas. |
+*| ENTER | Extrae un bloque aleatorio disponible y lo coloca en la cima de la torre. 
+*| ESPACIO | Alterna la vista de la cámara a unas de las 3 vistas creadas. 
